@@ -14,6 +14,9 @@
 **Shtikerbook**
 - The gag training page icon will now flash orange if you have training points available to spend.
 
+**Server**
+- Various server improvements.
+
 ### v1.0.0
 
 **Toons**:
