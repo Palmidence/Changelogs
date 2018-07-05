@@ -1,6 +1,6 @@
 ## v1.0.0 Patch 2
 **Instances**
-- Fix an issue with the Barnacle Boatyard 
+- Fix an issue with the Barnacle Boatyard instance
 
 **Gags**
 - Fix an issue with prestige Squirt not soaking single cogs.
