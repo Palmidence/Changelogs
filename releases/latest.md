@@ -10,6 +10,7 @@
 - Add glasses position tables to new species.
 - Fix a bug that prevented logging into a Toon that was in a club.
 - The Toon details panel now shows how many gags a Toon has, as well as its prestige status.
+- Fix an issue with strafing into doors or tunnels keeping the movement of the Toon in that direction. (Credit to Drew)
 
 **Shtikerbook**
 - The gag training page icon will now flash orange if you have training points available to spend.
