@@ -1,3 +1,19 @@
+### v1.0.0 Patch 1
+**Quests**
+- Fix an issue that skipped most of Barnacle Boatyard's taskline.
+- Fix an issue with a quest cutscene.
+
+**Estates**
+- Remove the lightswitch from estates.
+
+**Toons**
+- Add glasses position tables to new species.
+- Fix a bug that prevented logging into a Toon that was in a club.
+- The Toon details panel now shows how many gags a Toon has, as well as its prestige status.
+
+**Shtikerbook**
+- The gag training page icon will now flash orange if you have training points available to spend.
+
 ### v1.0.0
 
 **Toons**:
