@@ -1,3 +1,14 @@
+## v1.0.0 Patch 2
+**Instances**
+- Fix an issue with the Barnacle Boatyard 
+
+**Gags**
+- Fix an issue with prestige Squirt not soaking single cogs.
+- Fix a crash with Zap gags
+
+**Shtikerbook**
+- Fix an issue where the game would crash relating to the shtikerbook.
+
 ### v1.0.0 Patch 1
 **Quests**
 - Fix an issue that skipped most of Barnacle Boatyard's taskline.
