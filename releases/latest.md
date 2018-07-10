@@ -1,4 +1,4 @@
-## v1.0.1 BETA
+### v1.0.1 BETA
 **Trolley**
 - Trolley levels have now been added! Hop on the trolley and level up your Trolley Level for three more laff points.
 - ALL trolley jellybean rewards are now doubled.
@@ -58,7 +58,7 @@
 **Shtikerbook**
 - Fix an issue where the game would crash relating to the shtikerbook.
 
-### v1.0.0 BETA Patch 1
+## v1.0.0 BETA Patch 1
 **Quests**
 - Fix an issue that skipped most of Barnacle Boatyard's taskline.
 - Fix an issue with a quest cutscene.
@@ -78,7 +78,7 @@
 **Server**
 - Various server improvements.
 
-### v1.0.0 BETA
+## v1.0.0 BETA
 
 **Toons**:
 - 6 new species have been added! Fox, Alligator, Raccoon, Deer, Beaver, and Bat!
