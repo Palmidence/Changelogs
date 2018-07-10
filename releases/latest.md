@@ -5,7 +5,7 @@
 - Fix a crash in the Tug-of-War minigame when you face off against a "The Mingler" Cog.
 
 **Quests**
-- Fixed an issue that displayed the wrong Exp values
+- Fixed an issue that displayed the wrong experience values
 - Fixed an issue that allowed players to get a quest early
 - Fixed an issue that didn't let players pick up treasures
 - Tweaked Ye Olde Toontowne building quests to 'Anywhere.'
