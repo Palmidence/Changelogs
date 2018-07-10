@@ -1,18 +1,25 @@
-## v1.0.0 Patch 3
+## v1.0.1 BETA
 **Trolley**
 - Trolley levels have now been added! Hop on the trolley and level up your Trolley Level for three more laff points.
+- ALL trolley jellybean rewards are now doubled.
+- Fix a crash in the Tug-of-War minigame when you face off against a "The Mingler" Cog.
 
 **Quests**
 - Fixed an issue that displayed the wrong Exp values
 - Fixed an issue that allowed players to get a quest early
 - Fixed an issue that didn't let players pick up treasures
-- Tweaked YOTT building quests to 'Anywhere.'
+- Tweaked Ye Olde Toontowne building quests to 'Anywhere.'
 - Tweaked some quest dialogue
 - Added beans to all quests
 - Added sidequest hints to HQ NPCs
 
+**Disguises**
+- Implement unused Cog disguise walking sounds from Toontown Online
+
 **Instances**
-- Buffed the number of cogs in the TTC & BB boss fight
+- Buffed the number of Cogs in the Toontown Central & Barnacle Boatyard boss fight
+- The Ye Olde Toontowne boss fight is now 1 level higher per tier
+- Fix an issue where Toons that went sad in an instance would still get credit on completion.
 
 **Clubs**
 - Fixed an issue that would cause players to crash on receiving an invite to a club
@@ -27,13 +34,20 @@
 - Fixed a problem with Squirt causing users to crash
 - Added indicators for Lure rounds and Squirt rounds
 - Added an indicator for if the cog is soaked
+- The "Water Balloon" gag is now a lime-green color
+
+**Cogs**
+- Add sound effects to some Cog attacks that were previously mute.
+- Cogs now have a sound effect for dodging a gag.
 
 **Other**
 - Added some words to the whitelist
-- Fixed an issue that allowed players to disable the B&W filter in YOTT
+- Fixed an issue that allowed players to disable the black and white filter in Ye Olde Toontowne
+- Fixed a crash relating to the black and white filter in Ye Olde Toontowne
 - Fixed an issue with The Big Cheese's glower power attack
+- Rename a building in Mezzo Melodyland to be less abrasive
 
-## v1.0.0 Patch 2
+## v1.0.0 BETA Patch 2
 **Instances**
 - Fix an issue with the Barnacle Boatyard instance
 
@@ -44,7 +58,7 @@
 **Shtikerbook**
 - Fix an issue where the game would crash relating to the shtikerbook.
 
-### v1.0.0 Patch 1
+### v1.0.0 BETA Patch 1
 **Quests**
 - Fix an issue that skipped most of Barnacle Boatyard's taskline.
 - Fix an issue with a quest cutscene.
@@ -64,7 +78,7 @@
 **Server**
 - Various server improvements.
 
-### v1.0.0
+### v1.0.0 BETA
 
 **Toons**:
 - 6 new species have been added! Fox, Alligator, Raccoon, Deer, Beaver, and Bat!
