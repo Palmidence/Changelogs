@@ -1,4 +1,41 @@
-### v1.0.1 BETA
+### v1.0.1 BETA Patch 2
+**SOS Cards**
+- Tweak the damage values of some SOS cards.
+
+**Buildings**
+- Cog Buildings now properly spawn in Ye Olde Toontowne.
+
+**Invasions**
+- Slightly adjust the rate at which invasions spawn.
+
+**Battle and Cogs**
+- Rebalance Mr. Hollywood and The Mingler's attacks.
+- - Mr. Hollywood retains having two group attacks, Song and Dance, however, is much less accurate than Power Trip.
+- - The Mingler's Power Trip has been replaced with Double Talk, and her Paradigm Shift damage table has been reduced.
+- Various other tweaks to Sellbot Cog damages.
+- Toon attack panels in battle now accurately reflect the damage a gag will do when prestiged.
+
+**Other**
+- Fix a few typos around the game.
+- Fix Timmy Riddle's quest reward. It can be toggled in the Camera Tab of the Options Shtikerbook page.
+
+## v1.0.1 BETA Patch 1
+**Training Points**
+- Fix a few typos on the training points page.
+
+**Clubs**
+- Fix a longstanding bug with club invites.
+
+**Trolley**
+- The Slingshot Game will automatically complete if everyone reaches the max score.
+
+**Cogs**
+- Slightly adjust the damages of some rank 7 Cogs.
+
+**Quests**
+- Fix a quest duplication bug.
+
+## v1.0.1 BETA
 **Trolley**
 - Trolley levels have now been added! Hop on the trolley and level up your Trolley Level for three more laff points.
 - ALL trolley jellybean rewards are now doubled.
