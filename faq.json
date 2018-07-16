@@ -1,0 +1,30 @@
+[
+  {
+    "type": "faq",
+    "q": "What has changed in Corporate Clash?",
+    "a": "New features, new graphics, and new places to explore! There's a ton of new and exciting changes and features added to Toontown: Corporate Clash!"
+  },
+  {
+    "type": "faq",
+    "q": "I played Project Altis. Can I play on my old toons?",
+    "a": "We took a step back when deciding whether or not we toons would be carried over from Project Altis to Corporate Clash. After consideration and a community poll, we (and the community) decided that accounts and toons would need to be remade. See more details at <a href="https://corporateclash.net/news/article/7">Let's Talk Resets</a> and <a href="https://corporateclash.net/news/article/10">The Winner is</a>."
+  },
+  {
+    "type": "faq",
+    "q": "Do I have to purchase or pay to play?",
+    "a": "Although we're legally a non-profit and tax exempt, we do not make money or have an income stream from our playerbase, ads, or otherwise. The game is and will always be completely free to play."
+  },
+  {
+    "type": "faq",
+    "q": "Can I donate for server costs?",
+    "a": "We love how much you like to play Corporate Clash, however, we do not accept donations. If you want to support us, simply share our website link or recommend us to your friends."
+  },
+  {
+    "type": "hr"
+  },
+  {
+    "type": "faq",
+    "q": "What is ToonStep?",
+    "a": "Toonstep is our two-factor authentication system that requires you verify new logins that don't originate from past IP addresses that you have trusted. Toonstep is not required and not recommended if you use a strong password and/or a password manager for random passwords across different websites."
+  }
+]
