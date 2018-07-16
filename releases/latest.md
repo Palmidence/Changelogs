@@ -1,4 +1,16 @@
-### v1.0.1 BETA Patch 2
+### v1.0.1 Beta Patch 3
+**Trolley**
+- Rebalance the experience formula for the trolley. No longer will you be riding the trolley all day long!
+
+**Bugfixes**
+- Fix a crash for toons that were so eager to disable Ye Olde Toontowne colors they couldn't wait to get in game.
+- Fix a crash for toons that were so eager to use trap that they couldn't wait for a Cog to join the battle.
+
+**Bosses**
+- Rebalance some CJ attack damage tables.
+- Bonus weight has been implemented into lower tier CJ fights. The weight is 2 less than the number of seats.
+
+## v1.0.1 BETA Patch 2
 **SOS Cards**
 - Tweak the damage values of some SOS cards.
 
