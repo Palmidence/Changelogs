@@ -7,7 +7,6 @@
 - A ton of Cog attacks have had sounds reworked, or added.
 - Fix various animation bugs with Cog attacks.
 - Reduced the maximum time a Toon or Cog can wait to join a battle from 30 seconds to 7.5 seconds. This should prevent issues with a Toon waiting to join holding up the battle.
-- Fix a crash for Mac users involving double Zap.
 
 **Streets**
 - Ye Olde Toontown street percentages have been adjusted.
