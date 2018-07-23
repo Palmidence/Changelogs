@@ -1,21 +1,22 @@
-### v1.0.2 BETA
-**Tasks**
-- Reduce the levels required for the Acorn Acres intermission tasks.
-- Part collection tasks will now skip if you have your cog disguise for the needed department.
-- Fix an issue relating to missing tasks and tasks rolling back.
-- Patch various quest progression issues.
-- Fix the infamous "G" bug.
-
+### v1.0.3 BETA
 **Bosses**
-- Tier 1 VP has been rebalanced.
-- - Pies will now heal 3 laff at tier 1.
-- - The maximum level for the VP in tier 1 is now 11.
+- CEO Diner Cogs now scale according to the tier.
 
-- Other VP rebalances
-- - Skelecog level minimums are now 5 + the tier. For example, a tier 1 VP would have level 6 skelecogs at minimum, while a tier 4 would have level 9s.
+**Battles**
+- Change the TNT animation
+- A ton of Cog attacks have had sounds reworked, or added.
+- Fix various animation bugs with Cog attacks.
+- Reduced the maximum time a Toon or Cog can wait to join a battle from 30 seconds to 7.5 seconds. This should prevent issues with a Toon waiting to join holding up the battle.
+- Fix a crash for Mac users involving double Zap.
 
-- Implemented CJ bonus weight for lower tier CJ fights.
-- - The weight is calculated as seats - 2, or 0, whichever is higher.
+**Streets**
+- Ye Olde Toontown street percentages have been adjusted.
+- - The new percentages are as follows:
+- - Knight Knoll: 0% Boardbot, 5% Bossbot, 5% Lawbot, 45% Cashbot, 45% Sellbot
+- - Noble Nook: 50% Boardbot, 40% Bossbot, 10% Lawbot, 0% Cashbot, 0% Sellbot
+- - Wizard Way: 0% Boardbot, 20% Bossbot, 70% Lawbot, 5% Cashbot, 5% Sellbot
+- Noble Nook and Wizard Way will now spawn Cog Buildings correctly.
 
-**Facilities**
-- Slightly increase barrel collision radius.
+**Bugfixes**
+- Fix a crash relating to typing a non-unicode character into the chatbox.
+- Fix an issue where a Toon's fishing level could go over 70.
